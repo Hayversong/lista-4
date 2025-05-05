@@ -75,3 +75,5 @@ int main() {
 
     return 0;
 }
+
+/*a lógica utilizada para implementar a função foi fazer um laço de repetição que compara os elementos da fila e reordena eles ao contrário*/
